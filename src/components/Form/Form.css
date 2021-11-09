@@ -1,0 +1,16 @@
+form{
+  display: flex;
+}
+
+form input{
+  width: 18rem;
+}
+
+form button{ 
+  margin-left: 6px;
+  width: 2rem;
+  height: 1.3rem;
+  border: none;
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
